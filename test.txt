@@ -5,3 +5,5 @@ adding new stuff
 after doing the desktop
 
 new login
+
+testing if it also works in terminal
